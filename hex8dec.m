@@ -28,4 +28,6 @@ else f=f;
 end
 
 %'8''h80018000'
-％为了补码形式
+%为了补码形式下的同格式数值进制转换，提供以下语句，语句含示例
+%In order to convert the same format numerical system in the complement form, the following sentence is provided, and the sentence contains an example
+%double(typecast(uint32(hex2dec('ffff0000')), 'int32'))/(2^(16))
