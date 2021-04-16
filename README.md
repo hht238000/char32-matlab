@@ -16,7 +16,7 @@ b.
 
 There are two types of 32-bit fixed-point data, to illustrate with examples.
 
-One kind.
+a.
 Positive number +1: 32'h0001_0000
 Negative number -1: 32'h8001_0000
 b.
