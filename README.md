@@ -25,3 +25,5 @@ Negative number -1: 32'hFFFF_0000
 
 
 Obviously, type b is a fixed-point format in the form of complements. In the actual application process of the project, type b is more practical.
+
+brach01保存了添加补码修改之前的版本。
